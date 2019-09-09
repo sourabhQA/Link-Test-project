@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-09T06:49:09Z" name="Default suite" finished-at="2019-09-09T06:49:43Z" duration-ms="34442">
+    <groups>
+    </groups>
+    <test started-at="2019-09-09T06:49:09Z" name="Default test" finished-at="2019-09-09T06:49:43Z" duration-ms="34442">
+      <class name="Brokenlink.LinkTest.linkTest">
+        <test-method signature="Readfile()[pri:0, instance:Brokenlink.LinkTest.linkTest@6c40365c]" started-at="2019-09-09T06:49:09Z" name="Readfile" finished-at="2019-09-09T06:49:43Z" duration-ms="34412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Readfile -->
+      </class> <!-- Brokenlink.LinkTest.linkTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
